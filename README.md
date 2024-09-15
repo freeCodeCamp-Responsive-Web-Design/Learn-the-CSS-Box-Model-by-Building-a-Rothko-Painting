@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn about the **CSS Box Model** by creating a replica of a **Rothko painting**.
 
+[Learn the CSS Box Model by Building a Rothko Painting](https://freecodecamp-responsive-web-design.github.io/learn-the-css-box-model-by-building-a-rothko-painting/)
+
 ## In this project, you will:
 - Explore the **CSS Box Model** and understand its components: `content`, `padding`, `border`, and `margin`.
 - Apply these concepts to create a visually accurate representation of a Rothko painting.
